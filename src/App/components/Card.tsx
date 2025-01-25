@@ -1,6 +1,8 @@
+import Button from "./Button";
+
 const Card = () => {
 	return(
-		<div className="bg-white w-60 rounded-2xl p-2">
+		<div className="bg-white p-4 w-60 rounded-2xl p-2">
 
 		  <div>
 			  <img src="http://localhost:5173/public/assets/Produtos/C.png">
@@ -18,7 +20,7 @@ const Card = () => {
 
 		  </div>
 
-			<button className="w-full rounded-2xl bg-blue-500 py-2 px-4 hover:bg-blue-700 hover:text-white" >Adicionar no carrinho</button>
+			<Button>Adicionar no carrinho</Button>
 
 		</div>
 	)
