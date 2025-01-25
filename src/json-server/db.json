@@ -1,0 +1,67 @@
+{
+	"products": [
+  {
+    "id": 1,
+    "name": "Camisa",
+    "description": "Camiseta feita de algodão de alta qualidade",
+    "price": 29.99,
+    "quantity": 0,
+    "category": "Roupas",
+    "image": "camisa"
+  },
+  {
+    "id": 2,
+    "name": "Tênis Esportivo",
+    "description": "Tênis esportivo confortável para corrida",
+    "price": 119.90,
+    "quantity": 0,
+    "category": "Calçados",
+    "image": "tenis_esportivo"
+  },
+  {
+    "id": 3,
+    "name": "Relógio Digital",
+    "description": "Relógio digital com resistência à água",
+    "price": 89.50,
+    "quantity": 0,
+    "category": "Acessórios",
+    "image": "relogio_digital"
+  },
+  {
+    "id": 4,
+    "name": "Fone Bluetooth",
+    "description": "Fone de ouvido Bluetooth com cancelamento de ruído",
+    "price": 199.99,
+    "quantity": 0,
+    "category": "Eletrônicos",
+    "image": "fone_bluetooth"
+  },
+  {
+    "id": 5,
+    "name": "Cadeira Gamer",
+    "description": "Cadeira gamer ergonômica com ajuste de altura",
+    "price": 399.00,
+    "quantity": 0,
+    "category": "Móveis",
+    "image": "cadeira_gamer"
+  },
+  {
+    "id": 6,
+    "name": "Livro de Ficção",
+    "description": "Livro de ficção científica com capa dura",
+    "price": 49.90,
+    "quantity": 0,
+    "category": "Livros",
+    "image": "livro_ficcao"
+  },
+  {
+    "id": 7,
+    "name": "Mochila Escolar",
+    "description": "Mochila escolar com compartimento para notebook",
+    "price": 79.90,
+    "quantity": 0,
+    "category": "Acessórios",
+    "image": "mochila_escolar"
+  }
+]
+}
