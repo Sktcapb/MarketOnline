@@ -8,4 +8,8 @@ interface ProductProps {
 	image: string
 }
 
+export interface Product {
+	item: ProductProps;
+}
+
 export default ProductProps;

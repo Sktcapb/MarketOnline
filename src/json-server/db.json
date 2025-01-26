@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "name": "Tênis Esportivo",
-    "description": "Tênis esportivo confortável para corrida",
+    "name": "Bone Esportivo",
+    "description": "Bone esportivo confortável para corrida",
     "price": 119.90,
     "quantity": 0,
     "category": "Calçados",
-    "image": "tenis_esportivo"
+    "image": "Bone Esportivo"
   },
   {
     "id": 3,
